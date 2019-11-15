@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InternshipTest</string>
+    <string name="reponame">Repo Name</string>
+    <string name="forks">Number of Forks</string>
+    <string name="watchers">Number of Watchers</string>
+    <string name="openissue">Number of Open Issues</string>
+    <string name="score">Total Score</string>
+    <string name="language">Language</string>
+
+    <string name="ownerid">Owner Id</string>
+    <string name="loginname">Login Name</string>
+    <string name="url">Url</string>
+    <string name="orgurl">Organization Url</string>
+    <string name="type">Type</string>
+
+</resources>
